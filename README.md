@@ -52,6 +52,12 @@ To run application:
 gradlew clean bootRun
 ```
 
+To start application: 
+
+```bash
+http://localhost:9001/
+```
+
 ## Testing
 
 
@@ -62,3 +68,5 @@ gradlew clean test
 ### Documentation
 
 Swagger2 documentation is available.
+
+http://localhost:9001/swagger-ui.html#
