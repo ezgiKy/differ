@@ -1,0 +1,10 @@
+differences:
+  - id: 1
+    left: "[BASE64]YWFhYmJiY2NjZGRkMjIy"
+    right: "[BASE64]YWEzMzNiY2NjZHFxcXFx"
+  - id: 2
+    left: "[BASE64]YWEzMzNiY2NjZHFxcXFxYWEz"
+    right: "[BASE64]YWEzMzNiY2NjZHFxcXFx"
+  - id: 3
+    left: "[BASE64]YWFhYmJiY2NjZGRkMjIy"
+    right: "[BASE64]YWFhYmJiY2NjZGRkMjIy"
